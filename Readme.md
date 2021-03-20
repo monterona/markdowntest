@@ -114,6 +114,7 @@ edades <- rnorm(n = 1500, mean = 15, sd = .75)
 * [x] Tarea 1
 * [ ] Tarea 2
 * [ ] Tarea 3 
+<<<<<<< HEAD:hello.md
 
 
 @monterona
@@ -127,3 +128,5 @@ People
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
 | :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
 | :stuck_out_tongue_winking_eye: `:stuck_out_tongue_winking_eye:` | :stuck_out_tongue_closed_eyes: `:stuck_out_tongue_closed_eyes:` |
+=======
+>>>>>>> 7429de61d3ea01959cc589f7b83e2cbbdd155837:Readme.md
