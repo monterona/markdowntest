@@ -114,3 +114,16 @@ edades <- rnorm(n = 1500, mean = 15, sd = .75)
 * [x] Tarea 1
 * [ ] Tarea 2
 * [ ] Tarea 3 
+
+
+@monterona
+
+People
+
+| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
+|---|---|---|
+| :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
+| :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
+| :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
+| :satisfied: `:satisfied:` | :grin: `:grin:` | :wink: `:wink:` |
+| :stuck_out_tongue_winking_eye: `:stuck_out_tongue_winking_eye:` | :stuck_out_tongue_closed_eyes: `:stuck_out_tongue_closed_eyes:` |
